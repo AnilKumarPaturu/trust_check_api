@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+better_profanity
+dnspython
